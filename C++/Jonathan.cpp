@@ -54,10 +54,8 @@
 		and also some corrections have been made with the formating of some keywords.
 
 	Author:
-		Gonzales Cenelia
+		Gonzales Cenelia, Jonathan Moore
 
-	Website:
-		www.ai-search.4t.com
 */
 	
 #include "Jonathan.h"
